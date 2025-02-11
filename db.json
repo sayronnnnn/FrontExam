@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "Ron",
+      "email": "ron@example.com",
+      "password": "1234",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "Ronnie",
+      "email": "ronnie@example.com",
+      "password": "1234",
+      "role": "user"
+    },
+    {
+      "id": "3",
+      "username": "Sayron",
+      "email": "sayron@example.com",
+      "password": "1234",
+      "role": "user"
+    },
+    {
+      "id": "4",
+      "username": "Bato",
+      "email": "bato@example.com",
+      "password": "1234",
+      "role": "user"
+    }
+  ],
+  "employeeTimeRecords": [
+    {
+      "id": "1",
+      "employeeId": 1,
+      "date": "2024-01-30",
+      "timeIn": "08:30 AM",
+      "timeOut": "05:30 PM"
+    },
+    {
+      "id": "2",
+      "employeeId": 2,
+      "date": "2024-01-30",
+      "timeIn": "09:00 AM",
+      "timeOut": "06:00 PM"
+    },
+    {
+      "id": "1738593647784",
+      "date": "2025-02-03",
+      "employeeId": 4,
+      "timeIn": "10:40:47 PM",
+      "timeOut": "10:40:53 PM"
+    },
+    {
+      "id": "1739254120693",
+      "date": "2025-02-10",
+      "employeeId": 3,
+      "timeIn": "3:32:00 PM",
+      "timeOut": "3:32:05 PM"
+    },
+    {
+      "id": "1739259414990",
+      "date": "2025-02-09",
+      "employeeId": 4,
+      "timeIn": "3:36:54 PM",
+      "timeOut": "3:36:55 PM"
+    },
+    {
+      "id": "1739259414930",
+      "date": "2025-02-08",
+      "employeeId": 4,
+      "timeIn": "3:36:54 PM",
+      "timeOut": "3:36:55 PM"
+    },
+    {
+      "id": "1739559414990",
+      "date": "2025-02-07",
+      "employeeId": 4,
+      "timeIn": "3:36:54 PM",
+      "timeOut": "3:36:55 PM"
+    },
+    {
+      "id": "1739259614990",
+      "date": "2025-02-06",
+      "employeeId": 4,
+      "timeIn": "3:36:54 PM",
+      "timeOut": "3:36:55 PM"
+    },
+    {
+      "id": "1739253414990",
+      "date": "2025-02-05",
+      "employeeId": 4,
+      "timeIn": "3:36:54 PM",
+      "timeOut": "3:36:55 PM"
+    },
+    {
+      "id": "1739259414490",
+      "date": "2025-02-04",
+      "employeeId": 4,
+      "timeIn": "3:36:54 PM",
+      "timeOut": "3:36:55 PM"
+    },
+    {
+      "id": "1739459414990",
+      "date": "2025-02-03",
+      "employeeId": 4,
+      "timeIn": "3:36:54 PM",
+      "timeOut": "3:36:55 PM"
+    },
+    {
+      "id": "1739239614990",
+      "date": "2025-02-02",
+      "employeeId": 4,
+      "timeIn": "3:36:54 PM",
+      "timeOut": "3:36:55 PM"
+    },
+    {
+      "id": "1739243414990",
+      "date": "2025-02-01",
+      "employeeId": 4,
+      "timeIn": "3:36:54 PM",
+      "timeOut": "3:36:55 PM"
+    },
+    {
+      "id": "1735259414490",
+      "date": "2025-01-30",
+      "employeeId": 4,
+      "timeIn": "3:36:54 PM",
+      "timeOut": "3:36:55 PM"
+    },
+    {
+      "id": "1739259895157",
+      "date": "2025-02-11",
+      "employeeId": 4,
+      "timeIn": "3:44:55 PM",
+      "timeOut": "3:44:56 PM"
+    },
+    {
+      "id": "1739261304045",
+      "date": "2025-02-11",
+      "employeeId": 2,
+      "timeIn": "4:08:24 PM",
+      "timeOut": "4:08:25 PM"
+    }
+  ]
+}
